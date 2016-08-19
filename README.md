@@ -1,2 +1,2 @@
-# Go-Fish_CSE214
+# Go-Fish_CSE114
 Go-Fish Game written in Java
